@@ -1,4 +1,6 @@
+## Development Workflow
 
+This project uses Git branching and version control to manage development changes.
 # Ecomotive IoT – Data Engineering
 
 ## Project Overview
